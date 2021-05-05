@@ -35,7 +35,7 @@ This is Fudge an AI assistant. The app is made in python using modules. Fudge is
 * random ---> *pip install random* .
 * requests ---> *pip install requests* .
 
-**Make sure the module is installed to run the code error free.**
+**Make sure the module's are installed to run the code error free.**
 
 
 
