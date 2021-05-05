@@ -15,7 +15,7 @@ This is Fudge an AI assistant. The app is made in python using modules. Fudge is
 * Open Visual Studio Code.
 * Tell today's News.
 
-***I hope the program be useful and enjoyable to users.  ***
+**I hope the program be useful and enjoyable to users.**
 
 **Enjoy The App!!!!!**
 
